@@ -1,0 +1,28 @@
+name: Ariszagklis
+favicon: null
+layout_spectrum: 0.14849
+typography_spectrum: 0.34135
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fafcf9'
+    - '#a9c4df'
+    - '#49221d'
+    - '#ba3c2d'
+    - '#8c6663'
+  brandStrength: 0.8810658669099212
+  lightness: 0.5401428940240294
+  saturation: 0.7973839836195111
+  rhythmicContrast: 0.8836694753263146
+purpose: []
