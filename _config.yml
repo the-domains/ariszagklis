@@ -1,8 +1,7 @@
 name: Ariszagklis
 favicon: null
-layout_spectrum: 0.14849
-typography_spectrum: 0.34135
-title: 'Aris Zagklis | Photography'
+layout_spectrum: 0.7165444092825055
+typography_spectrum: 0.2511783365625888
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fafcf9'
-    - '#a9c4df'
-    - '#49221d'
-    - '#ba3c2d'
-    - '#8c6663'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
   brandStrength: 0.8810658669099212
   lightness: 0.5401428940240294
   saturation: 0.7973839836195111
